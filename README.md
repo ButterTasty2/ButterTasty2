@@ -3,6 +3,6 @@ My name is Reynold Chan Feng Wan, and I am passionate about IT and Computer Scie
 During my school projects, I worked on an Object-Oriented Programming project where I developed and integrated the OrderManager and SupplierManager systems.
 
 Let's connect:
+linkln: www.linkedin.com/in/chan-feng-wan-reynold-7a7b2132a
+Email: reynoldcfw-wm23@student.tarc.edu.my
 
-[LinkedIn Link]
-Email: reynold.chan@example.com
